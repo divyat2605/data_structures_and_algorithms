@@ -40,3 +40,4 @@ public:
         return result;
     }
 };
+//time and space complexity: O(n)
