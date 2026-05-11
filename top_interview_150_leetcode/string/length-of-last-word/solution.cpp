@@ -1,6 +1,6 @@
 // LeetCode 58 - Length of Last Word
 // Approach: Reverse traversal — O(n) time, O(1) space
-// Beats 97.43% | Author: Firdavs | Apr 01, 2024
+// Beats 97.43% | Author: divyat2605 | May 11, 2026
 
 class Solution {
 public:
