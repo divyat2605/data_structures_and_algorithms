@@ -1,7 +1,6 @@
 # Length of Last Word — Easy | ✅ 97.43% Beats
 
-**Author:** Firdavs · 500 Days Badge · Apr 01, 2024  
-**Tags:** String · C++ · Python · Java
+**Tags:** String · C++ 
 
 ---
 
